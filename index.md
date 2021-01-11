@@ -5,7 +5,7 @@
 
 1.open the application 
 
-![step1](screenshots/rr.jpeg)
+![step1](screenshots/rrr.png)
 
 2. Select ``start``
 
